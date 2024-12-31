@@ -1,0 +1,72 @@
+
+    /* General reset for padding and margin */
+    body {
+        margin: 0;
+        font-family: Arial, sans-serif;
+        background-color: #363655;
+        color: #333;
+    }
+
+    /* Styling for the header */
+    header {
+        background-color: #55656a;
+        color: rgb(97, 87, 87);
+        padding: 10px 20px;
+        text-align: center;
+    }
+
+    /* Styling for the navigation bar */
+    nav {
+        padding: 10px 0;
+    }
+
+    nav ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        text-align: center;
+    }
+
+    nav ul li {
+        display: inline;
+        margin: 0 15px;
+    }
+
+    nav ul li a {
+        color: rgb(111, 79, 79);
+        text-decoration: none;
+        font-weight: bold;
+    }
+
+    /* Styling for the main content */
+    main { color: rgb(119, 44, 96);
+        padding: 20px;
+        text-align: center;
+        margin-bottom:0cqmax
+    }
+    div{
+        padding-bottom: 0cqh;
+        margin-bottom: auto;
+        margin-top: auto;
+    }
+
+    /* Styling for the elem6 section */
+    #element {
+        background-color: #6f5e5e;
+        padding: 15px;
+        margin: 20px auto;
+        max-width: 500px;
+        border-radius: 8px;
+        box-shadow: 0 4px 6px rgba(8, 5, 5, 0.1);
+    }
+
+    /* Styling for the footer */
+    footer {
+        background-color: #cde2ce;
+        color: white;
+        text-align: center;
+        padding: 10px 0;
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+    }
