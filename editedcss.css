@@ -1,0 +1,40 @@
+body {
+    background: #11826d;
+    margin: auto;
+    padding: 100px;
+    max-width: 1200px;
+  }
+  
+  .divclass {
+    background-color: #ffffff;
+    max-width: 900px;
+    margin: auto;
+    padding: 80px;
+  }
+  
+  .header {
+    display: flex;
+    justify-content: space-between; /* Logo on the left, nav items on the right */
+    align-items: center;
+  }
+  
+  .istlink {
+    text-decoration: none;
+    color: #11826d;
+    font-size: 1.5em;
+    font-weight: bold;
+  }
+  
+  .nav-list {
+    list-style: none;
+    display: flex;
+    gap: 30px; /* Space between menu items */
+    margin: 0;
+    padding: 0;
+  }
+  
+  .nav-list li {
+    font-size: 1.2em;
+    cursor: pointer;
+  }
+  
